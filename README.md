@@ -21,7 +21,7 @@ Traditional attendance systems are prone to errors and can be inefficient. Our s
 - Efficient management of attendance data with Pandas.
 
 # Run the Streamlit application
-streamlit run app.py
+streamlit run HOME.py
 
 # Authors
 - Tavish Gupta
