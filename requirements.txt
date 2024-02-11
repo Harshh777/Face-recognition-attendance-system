@@ -1,7 +1,6 @@
 streamlit-lottie
 streamlit
 deepface
-os
 pandas
 csv
 pickle
