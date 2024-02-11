@@ -1,7 +1,6 @@
 streamlit-lottie
 deepface
 pandas
-pickle
 pathlib
 streamlit_authenticator
 cv2
