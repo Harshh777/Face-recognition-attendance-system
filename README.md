@@ -23,7 +23,7 @@ Traditional attendance systems are prone to errors and can be inefficient. Our s
 # Run the Streamlit application
 streamlit run app.py
 
-Authors
-Tavish Gupta
-Priyanshu Vij
-Aryaman Singhi
+# Authors
+- Tavish Gupta
+- Priyanshu Vij
+- Aryaman Singhi
