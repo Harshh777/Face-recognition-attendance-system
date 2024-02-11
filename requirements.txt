@@ -3,6 +3,5 @@ deepface
 pandas
 pathlib
 streamlit_authenticator
-cv2
-time
+
 
