@@ -1,1 +1,13 @@
 streamlit-lottie
+json
+streamlit
+deepface
+os
+pandas
+csv
+pickle
+pathlib
+streamlit_authenticator
+cv2
+time
+
