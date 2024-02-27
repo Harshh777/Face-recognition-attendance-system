@@ -1,4 +1,4 @@
-# Facial Recognition Attendance System
+# FaceSense
 
 ## Introduction
 This project introduces an automated attendance management system that leverages facial recognition technology. Developed in Python, it replaces traditional, often inaccurate attendance methods with a secure, user-friendly, and efficient alternative. Utilizing a webcam for image capture and the Deepface library for facial recognition, it streamlines attendance tracking in educational and professional settings.
